@@ -90,8 +90,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME:SENTHAMIL SELVAN G
-Reg No:212222230139
+NAME:ABISHEK PV
+Reg No:212222230003
 ```
 ```c
 #include "main.h"
